@@ -1,4 +1,4 @@
-## 👋 Hello, world! I'm Ansh Sharma
+## 👋 Hello, there! I'm Ansh Sharma
 
 🚀 Passionate developer from **Delhi, India**, always exploring the edge where creativity meets code.
 
