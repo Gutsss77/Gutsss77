@@ -1,6 +1,6 @@
 ## 👋 Hello, there! I'm Ansh Sharma
 
-🚀 Passionate developer from **Delhi, India**, always exploring the edge where creativity meets code.
+⚔️ I'm on a journey of **learning and self-discovery**, constantly exploring new ideas and growing in both my personal and professional life. Like everyone, I have moments of doubt — questioning if I'm heading in the right direction. But no matter what, I stay motivated to keep moving forward, embrace challenges, and learn from them.
 
 ### 💡 About Me
 - 💻 I love building things — from AI-powered comics to secure password managers.
