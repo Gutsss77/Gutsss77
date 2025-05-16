@@ -13,8 +13,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
 ### 🐉 GitHub Stats
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=tokyonight)
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gutsss77&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+### 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutsss77&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 _“Work hard ⚔️”_  
-Something great is coming!  
+Something great is coming!
