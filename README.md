@@ -19,7 +19,7 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gutsss77&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gutsss77&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 ### 📊 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutsss77&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
