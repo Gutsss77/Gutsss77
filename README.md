@@ -24,9 +24,7 @@
 
 ### 🔥 GitHub Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Gutsss77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gutsss77)](https://git.io/streak-stats)
 
 ### 🧠 Top Languages
 
