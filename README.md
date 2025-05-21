@@ -1,8 +1,11 @@
 ## 🇮🇳 Hello there! I'm Ansh Sharma
 
-📈 I’m always on to **explore** new things. I wanted to achieve something really cool — let’s see how long it takes me to get there!
+📈 I'm always excited to **explore** new technologies and build cool projects. I'm on a journey to achieve something great — let’s see how long it takes to get there!
+
+---
 
 ### 🛠️ Technologies & Tools
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -15,16 +18,21 @@
 
 ---
 
-### 🐉 GitHub Stats
+### 📊 GitHub Stats
+
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gutsss77&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
-### 📊 Top Languages
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Gutsss77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+### 🧠 Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutsss77&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 _“Work hard ⚔️”_  
-Something great is coming!
+**Stay tuned — something great is coming!**
