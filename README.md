@@ -17,14 +17,11 @@
 ---
 
 ### 📊 GitHub Stats
-
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gutsss77)](https://git.io/streak-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gutsss77&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
