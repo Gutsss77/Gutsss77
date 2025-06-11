@@ -11,7 +11,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=tokyonight)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutsss77&show_icons=true&theme=radical)
+
 
 ---
 
